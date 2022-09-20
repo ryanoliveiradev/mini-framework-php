@@ -1,0 +1,8 @@
+# criar o banco de dados e posteriormente as tabelas
+
+# configurar o arquivo config.php caso haja necessidade
+
+#o arquivo loader.php inicia a sessao, configura erros e inclui um arquivo como funções globais
+
+#o arquivo global-functions.php possui funções importantes para a execução da aplicação
+
